@@ -1,7 +1,6 @@
 # IPL Classification Assignment
 
 **Author**: Barnita Das  
-**Roll Number**: 06
 
 This project involves building classification models to predict the outcome of IPL matches based on pre-match conditions.
 
